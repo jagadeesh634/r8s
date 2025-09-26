@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: mongo_config
+data:
+mongo-url: mango-service
+    
